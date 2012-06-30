@@ -1,0 +1,8 @@
+1. Def adalah fungsi pada python untuk mendefinisikan suatu fungsi.
+   build-in fungsi ini memperudah kita untuk medeklarasikan suatu 
+   fungsi agar penulisan program lebih singkat.
+
+2. d) ABC Zap ABC
+   karena jane 2x di panggil di bawah.
+
+
