@@ -1,4 +1,5 @@
-1. Def adalah fungsi pada python untuk mendefinisikan suatu fungsi.
+1. d) b dan c dua-dua benar.
+   Def adalah fungsi pada python untuk mendefinisikan suatu fungsi.
    build-in fungsi ini memperudah kita untuk medeklarasikan suatu 
    fungsi agar penulisan program lebih singkat.
 
